@@ -19,3 +19,9 @@ I used chat-GPT-4 turbo API which was a grate fit to the use case of the tool. I
 * **ScSS:** Was used for styling the tool in Cape's usual brand identity
 
 * **Material UI:**  This compoanent library was used aslo for styling
+
+Unfortunately I can't show any code because of company policies, however i can show demo videos of how the tool works.
+
+
+https://github.com/Viktor1722/Ai-assistant/assets/102257718/7d08b5f0-8d13-469f-aee7-d30407ffb361
+
